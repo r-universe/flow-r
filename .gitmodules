@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "flowr"]
+	path = flowr
+	url = https://github.com/flow-r/flowr
+	shallow = true
+	registered = true
